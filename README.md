@@ -1,4 +1,3 @@
-FTCScout
-========
+The OpenShift `nodejs` cartridge documentation can be found at:
 
-FTC 1983 Skunk Works scouting app
+http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
